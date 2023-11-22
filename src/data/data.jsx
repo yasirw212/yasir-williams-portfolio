@@ -7,7 +7,6 @@ import handySocal from '.././assets/handysocal.jpg'
 import yasirwilliams from '.././assets/yasirwilliams.jpeg'
 
 import react from '.././assets/react-48.png'
-// import api from '.././assets/api-48.png'
 import materialUI from '.././assets/material-ui-48.png'
 import api from '.././assets/api-48.png'
 import mongodb from '.././assets/mongodb-48.png'
@@ -28,8 +27,8 @@ const projectsData = [
         img: handySocal,
         title: 'Handy SoCal',
         description: "This is a 27 page website created for a handyman service provider located in Southern California by the name of Handy SoCal. This is the site I have most enjoyed creating and shows my skill set very well.",
-        url: 'https://main--reliable-crostata-a6d5df.netlify.app/HandySoCal-Frontend',
-        githubUrl: 'https://github.com/yasirw212/ha'
+        url: 'https://handysocal.netlify.app',
+        githubUrl: 'https://github.com/yasirw212/HandySoCal-frontend'
     },
     {
         img: ownxmind,

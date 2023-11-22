@@ -34,9 +34,6 @@ export default function Project({title, img, description, icons, url, githubUrl}
                     <Button sx={{color: '#fff', '&:hover': {opacity: '.7'}}}>
                         <a href={url} style={{textDecoration: 'none', color: '#fff', display: 'flex', alignItems: 'center'}} target='_blank'>Live Site <LanguageOutlined sx={{marginLeft: '.5rem'}} /></a>
                     </Button>
-                    <Button sx={{color: '#fff', '&:hover': {opacity: '.7'}}}>
-                        <a href={githubUrl} style={{textDecoration: 'none', color: '#fff', display: 'flex', alignItems: 'center'}} target='_blank'>Code <Code sx={{marginLeft: '.5rem'}} /></a>
-                    </Button>
                 </CardActions>
             </Card>
         </Grid>
