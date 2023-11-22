@@ -15,10 +15,9 @@ export default function Introduction(){
                 Hi, I am <strong style={{display: 'block'}}>Yasir Williams</strong>
               </Typography>
               <Box>
-                
-                <Typography variant={'h3'} className='text-light intro-subtitle gradient__bg' sx={{color: '#fff'}}>
-                  FRONT-END DEV
-                </Typography>
+                  <Typography variant={'h3'} className='text-light intro-subtitle gradient__bg' sx={{color: '#fff'}}>
+                    FULL-STACK DEV
+                  </Typography>
               </Box>
               <img className='portrait' src={selfPortrait} alt="" />
         </Box>

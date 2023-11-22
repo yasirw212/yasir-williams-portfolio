@@ -31,7 +31,7 @@ export default function About(){
                     </Box>
                     <Box sx={{marginTop: {xs: '2rem'}, width: {xs: '80%'}}}>
                         <Typography xs={4} sx={{lineHeight: '30px', fontWeight: 400, color: colors.secondary[700] , textShadow: '0px 0px 5px #fff', fontSize: {xs: '14px', sm: '16px'}}}>
-                            I am a frontend developer based out of Fort Worth, Texas. I am currently pursuing my associates degree in Computer Science(CS) and aspire to obtain a Bachelor of Arts(BA) in CS, afterwards. I began my coding journey in 2021 and I've been in love since. I know in this field there is no finish line and their is always more for you to learn/do and that's what I intend to do! The sense of satisfaction I receive from completing projects is what keeps me driven. As of right now I specialize in frontend web development but I do plan on expanding into software and mobile applications!
+                            I am a full-stack web developer based out of Fort Worth, Texas. I am currently pursuing my associates degree in Computer Science(CS) and aspire to obtain a Bachelor of Arts(BA) in CS, afterwards. I began my coding journey in 2021 and I've been in love since. I know in this field there is no finish line and their is always more for you to learn/do and that's what I intend to do! The sense of satisfaction I receive from completing projects is what keeps me driven. As of right now I specialize in web development but I do plan on expanding into software and mobile applications!
                         </Typography>
                     </Box>
                 </Box>
