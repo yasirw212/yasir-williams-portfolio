@@ -7,10 +7,12 @@ import handySocal from '.././assets/handysocal.jpg'
 import yasirwilliams from '.././assets/yasirwilliams.jpeg'
 
 import react from '.././assets/react-48.png'
+import redux from '.././assets/redux-48.png'
 import materialUI from '.././assets/material-ui-48.png'
 import api from '.././assets/api-48.png'
 import mongodb from '.././assets/mongodb-48.png'
-import nodejs from '.././assets/mongodb-48.png'
+import nodejs from '.././assets/nodejs-48.png'
+import express from '.././assets/express-48.png'
 import javascript from '.././assets/javascript-48.png'
 import html from '.././assets/html-48.png'
 import css from '.././assets/css-48.png'
@@ -79,8 +81,16 @@ const technologyData = [
         icon: react
     },
     {
+        name: 'Redux',
+        icon: redux
+    },
+    {
         name: 'Node.js',
         icon: nodejs
+    },
+    {
+        name: 'Express',
+        icon: express
     },
     {
         name: 'Postgresql',

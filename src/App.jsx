@@ -33,4 +33,3 @@ function App() {
 }
 
 export default App
-{/*style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}*/}
