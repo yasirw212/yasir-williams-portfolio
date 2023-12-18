@@ -27,9 +27,9 @@ import postgresql from '.././assets/postgresql-48.png'
 const projectsData = [
     {
         img: handySocal,
-        title: 'Handy SoCal',
-        description: "This is a 27 page website created for a handyman service provider located in Southern California by the name of Handy SoCal. This is the site I have most enjoyed creating and shows my skill set very well.",
-        url: 'https://handysocal.netlify.app',
+        title: 'Quintero Construction',
+        description: "This is a 27 page website created for a handyman service provider located in Southern California by the name of Quintero Construction. This is the site I have most enjoyed creating and shows my skill set very well.",
+        url: 'https://quinteroconstruction.netlify.app',
         githubUrl: 'https://github.com/yasirw212/HandySoCal-frontend'
     },
     {
